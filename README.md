@@ -6,7 +6,7 @@ a back-end API, and front-end interfacing in a clone of AirBnB.
 
 This repository currently only implements the back-end console.
 
-## Lets Get Started
+## Lets Get Started!
 
 **First step: Write a command interpreter to manage your AirBnB objects.**
 
